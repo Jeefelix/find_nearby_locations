@@ -2,7 +2,7 @@
 
 Este serviço recebe uma coordenada de local e devolve, de forma ordenada por menor distancia, 3 estabelecimentos cujo raio de distanica esteja compreendido dentro do valor máximo em relação ao local de paramentro.
 
-O calculo será realizado da seguinte forma:
+## O calculo será realizado da seguinte forma:
 
 A distancia entre o local de parametro(A) e os estabelecimentos próximos (B) é obtida pela diferença na subtração das coordenadas X e Y de ambas.
 
